@@ -7,7 +7,7 @@ Possuo **Inglês Intermediário** e tenho conhecimento em algumas linguagens/fun
 Um fato sobre mim é que eu gosto bastante de jogos e pode me perguntar sobre Pokémon (tirando da 7ª geração pra cima 😂).
 
 # Para entrar em contato comigo 📞
- - [x] [Linkedin](https://www.linkedin.com/in/allan-silva-50961815a/)
+ - [x] [LinkedIn](https://www.linkedin.com/in/allan-silva-50961815a/)
  - [x] allancarlos35@hotmail.com
  
  Até mais! :smiley:
