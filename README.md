@@ -4,7 +4,11 @@ Meu nome é **Allan Carlos**, tenho 23 anos e atualmente sou formado em **Ciênc
 
 Possuo **Inglês Intermediário** e tenho conhecimento em algumas linguagens/funcionalidades: *Java*, *JSP*, *Python*, *C*, *HTML*, *CSS*, *Javascript*, *PHP*, *C#*, *.NET*, *Oracle SQL*, *MySQL*, *SQL Server*, *Desenvolvimento Android*, *Word*, *Access*, *Excel* e *PowerPoint*. 
 
-Um fato sobre mim é que eu gosto bastante de jogos e pode me perguntar sobre Pokémon (tirando da 7ª geração pra cima 😂).
+Um fato sobre mim é que eu gosto bastante de jogos e pode me perguntar sobre Pokémon (tirando da 7ª geração para cima 😂).
+
+Linguagens mais usadas no meu repositório:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan542)](https://github.com/anuraghazra/github-readme-stats)
 
 # Para entrar em contato comigo 📞
  - [x] [LinkedIn](https://www.linkedin.com/in/allan-silva-50961815a/)
