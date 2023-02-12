@@ -6,7 +6,7 @@ Possuo **Inglês Intermediário** e tenho conhecimento em algumas linguagens/fun
 
 Um fato sobre mim é que eu gosto bastante de jogos e pode me perguntar sobre Pokémon (tirando da 7ª geração para cima 😂).
 
-Linguagens mais usadas no meu repositório:
+## Linguagens mais usadas no meu repositório:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan542)](https://github.com/anuraghazra/github-readme-stats)
 
