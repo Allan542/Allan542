@@ -1,8 +1,8 @@
 # Olá você 👋
 
-Meu nome é **Allan Carlos**, tenho 23 anos e atualmente sou formado em **Ciência da Computação**. Estou trabalhando na empresa BRQ Digital Solutions como Analista de Sistemas usando a linguagem Java. Atualmente estou estudando a parte Backend da Linguagem Java para expandir meu conhecimento sobre desenvolvimento de APIs REST.
+Meu nome é **Allan Carlos**, tenho 24 anos e atualmente sou formado em **Ciência da Computação**. Estou trabalhando na empresa BRQ Digital Solutions como Analista de Sistemas usando a linguagem Java. Atualmente estou estudando a parte Backend da Linguagem Java para expandir meu conhecimento sobre desenvolvimento de APIs REST.
 
-Possuo **Inglês Intermediário** e tenho conhecimento em algumas linguagens/funcionalidades: *Java*, *JSP*, *Python*, *C*, *HTML*, *CSS*, *Javascript*, *PHP*, *C#*, *.NET*, *Oracle SQL*, *MySQL*, *SQL Server*, *Desenvolvimento Android*, *Word*, *Access*, *Excel* e *PowerPoint*. 
+Possuo **Inglês Intermediário** e tenho conhecimento em algumas linguagens/funcionalidades: *Java*, *JSP*, *Python*, *C*, *HTML*, *CSS*, *Javascript*, *PHP*, *C#*, *.NET*, *Oracle SQL*, *MySQL*, *SQL Server*, *Desenvolvimento Android*, *Word*, *Excel* e *PowerPoint*. 
 
 Um fato sobre mim é que eu gosto bastante de jogos e pode me perguntar sobre Pokémon (tirando da 7ª geração para cima 😂).
 
